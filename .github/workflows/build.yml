@@ -54,7 +54,7 @@ jobs:
           # - x86_64
           
         sdk:
-          - 23.05.6
+          - openwrt-23.05
           # - SNAPSHOT
 
     steps:
